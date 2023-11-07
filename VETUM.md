@@ -6,9 +6,9 @@ O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação i
 
 ### Acentuação Gráfica
 
-A acentuação gráfica no Vetum é utilizada para indicar entonação e ênfase em palavras. Por exemplo, o "acento grave {\´}" indica uma entonação ascendente, indicando uma pergunta, enquanto o "acento agudo {\`}" indica uma entonação descendente, indicando uma afirmação. Isso ajuda a dar nuances à comunicação escrita.
+A acentuação gráfica no Vetum é utilizada para indicar entonação e ênfase em palavras. Por exemplo, o "acento grave {´}" indica uma entonação ascendente, indicando uma pergunta, enquanto o "acento agudo {\`}" indica uma entonação descendente, indicando uma afirmação. Isso ajuda a dar nuances à comunicação escrita.
 
-- "Acento grave {\´}": com entonação ascendente, indicando uma pergunta.
+- "Acento grave {´}": com entonação ascendente, indicando uma pergunta.
 - "Acento agudo {\`}": com entonação descendente, indicando uma afirmação.
 
 ### Ênfase
@@ -32,7 +32,7 @@ Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre out
 
 ### Artigos
 
-###### Artigos Definidos
+**Artigos Definidos:**
 
 - **Lo (Masculino)**: O
 - **La (Feminino)**: A
@@ -326,4 +326,3 @@ O Vetum utiliza um alfabeto baseado no latim, com algumas modificações para re
 - **Le creat astronomia in Vetúm**: Ele cria astronomia em Vetum.
 - **Mi programme**: Eu programo.
 - **La domus es magnus**: A casa é grande.
-
