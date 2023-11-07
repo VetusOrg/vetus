@@ -152,13 +152,15 @@ Este sistema de pesquisa e estudo foi concebido com meticulosidade para assegura
 **Onde Usar o Inglês:**
 
 1. **Comunicações Importantes:**
-   - Todas as comunicações oficiais, incluindo e-mails, documentos formais e relatórios para outras instituições, devem ser redigidas em inglês formal.
+   - Todas as comunicações oficiais, incluindo e-mails, documentos formais e relatórios para outras instituições internacionais, devem ser redigidas em inglês formal.
 
 2. **Reuniões e Apresentações:**
    - Durante reuniões formais e apresentações, o inglês formal deve ser adotado para garantir a clareza e a uniformidade da comunicação.
 
 3. **Documentação Técnica:**
    - Manuais, guias técnicos e qualquer forma de documentação devem ser redigidos em inglês formal para facilitar a compreensão e a disseminação do conhecimento.
+
+   [Atenção] - Isso até os membros se acostumarem e familiarizar-se com o idioma Vetum, após isso, qualquer documentação técnica para a organização será redigito em Vetum.
 
 **Porquê:**
 
@@ -169,13 +171,13 @@ Este sistema de pesquisa e estudo foi concebido com meticulosidade para assegura
    - A utilização do inglês abre portas para acessar uma ampla gama de recursos acadêmicos, científicos e técnicos disponíveis na língua inglesa.
 
 3. **Profissionalismo e Credibilidade:**
-   - A adoção do inglês padrão demonstra um nível de profissionalismo e seriedade em nossas atividades, reforçando a credibilidade da organização "Vetus" no cenário internacional.
+   - A adoção do inglês formal demonstra um nível de profissionalismo e seriedade em nossas atividades, reforçando a credibilidade da organização "Vetus" no cenário internacional.
 
 4. **Eficácia na Comunicação:**
-   - O uso do inglês formal promove uma comunicação mais eficaz, minimizando possíveis mal-entendidos e garantindo que a informação seja transmitida de forma clara e precisa.
+   - O uso do inglês formal promove uma comunicação mais efetiva, minimizando possíveis mal-entendidos e garantindo que a informação seja transmitida de forma clara e precisa.
 ##### Onde usar Vetum
 
-Vetum é uma variante do inglês padrão, construído para facilitar a comunicação dentro da organização.
+Vetum é uma interlingua (conlang) baseado no Latim, construída para facilitar a comunicação dentro da organização.
 
 1. **Bate-papos Oficiais**:
    - Será usado em conversas em grupos oficiais da organização.
@@ -186,7 +188,6 @@ Vetum é uma variante do inglês padrão, construído para facilitar a comunica�
 **Dúvidas**
 
 P.: **Posso usar meu idioma local para conversar com outros membros em grupos oficiais da Vetus?**
-R.: Não. Toda comunicação online e em nossos grupos oficiais com outros membros devem ser feitas usando o idioma padrão da organização, Vetum ou o Inglês se for para documentos externos.
+R.: Não. Toda comunicação online e em nossos grupos oficiais com outros membros devem ser feitas usando o idioma padrão da organização, Vetum ou o Inglês - enquanto os membros aprendem o Vetum.
 
 ---
-
