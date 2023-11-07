@@ -30,8 +30,8 @@ Todos os departamentos deverão relatar seu desenvolvimento nos grupos oficiais 
 **III. Comunicação:**
 A comunicação será centralizada nas plataformas Discord, Telegram e IRC, com canais específicos para cada departamento. Estes serão espaços de interação, discussão e compartilhamento de informações entre os membros da organização.
 
-**IV. Língua Própria:**
-A língua oficial da organização "Vetus" será derivada do Latim e Inglês, simbolizando a ligação com o conhecimento e a tradição científica.
+**IV. Idioma Próprio:**
+A língua oficial da organização "Vetus" será derivada do Latim, simbolizando a ligação com o conhecimento e a tradição científica.
 
 **V. Admissão de Membros:**
 A admissão na organização "Vetus" será realizada por meio de um processo seletivo, no qual os candidatos serão avaliados com base em seus conhecimentos, habilidades e contribuições potenciais para os objetivos da organização.
