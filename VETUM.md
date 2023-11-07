@@ -459,28 +459,43 @@ O Vetum utiliza um alfabeto baseado no latim, com algumas modificações para re
 4. **Le creat astronomia in Vetúm** - Ele cria astronomia em Vetum.
 5. **Mi programme** - Eu programo.
 6. **La domus es magnus** - A casa é grande.
-7. **Mi programmo** - Eu programo.
-8. **Scientia et investigatio sun important** - Ciência e pesquisa são importantes.
-9. **Mi studet mathematica** - Eu estudo matemática.
-10. **Scientia es potentia** - Conhecimento é poder.
-11. **Nos debemus studere** - Nós devemos estudar
-12. **Le programme es efficax** - O programa é eficaz.
-13. **Mi creare novus algorithmus** - Eu crio novos algoritmos.
-14. **Nos explorare le mysterium del universum** - Nós exploramos o mistério do universo.
-15. **La scientia et creativitate sun fundamentale** - A ciência e a criatividade são fundamentais.
-16. **Mi adoro investigare astronomia** - Eu adoro investigar astronomia.
-17. **Le mathematica es universalis** - A matemática é universal.
-18. **La technologia cresce rapidus** - A tecnologia cresce rapidamente.
-19. **Le scientistas observa le stellas** - Os cientistas observam as estrelas.
-20. **Nos incrementare le nostra compreensione** - Nós aumentamos nossa compreensão.
-21. **Le creatio art es universal** - A criação artística é universal.
-22. **Mi admire le diversitate del natura** - Eu admiro a diversidade da natureza.
-23. **Le programmatore crea algoritmos abstractus** - O programador cria algoritmos abstratos.
-24. **Nos communicare clarissime in Vetúm** - Nós comunicamos claramente em Vetum.
-25. **Le philosophia examina le natura del realitate** - A filosofia examina a natureza da realidade.
-26. **Mi cresce com le libros** - Eu cresço com os livros.
-27. **La technologia innovat in cada era** - A tecnologia inova em cada era.
-28. **Le astrum brillia in le nocte** - As estrelas brilham na noite.
-29. **Scientia et arte educe le homines** - Ciência e arte educam as pessoas.
-30. **Nos ambula in le parco** - Nós caminhamos no parque.
-31. **Le tempus semper cambia** - O tempo está sempre mudando.
+7. **Scientia et investigatio sun important** - Ciência e pesquisa são importantes.
+8. **Mi studet mathematica** - Eu estudo matemática.
+9. **Scientia es potentia** - Conhecimento é poder.
+10. **Nos debemus studere** - Nós devemos estudar
+11. **Le programme es efficax** - O programa é eficaz.
+12. **Mi creare novus algorithmus** - Eu crio novos algoritmos.
+13. **Nos explorare le mysterium del universum** - Nós exploramos o mistério do universo.
+14. **La scientia et creativitate sun fundamentale** - A ciência e a criatividade são fundamentais.
+15. **Mi adoro investigare astronomia** - Eu adoro investigar astronomia.
+16. **Le mathematica es universalis** - A matemática é universal.
+17. **La technologia cresce rapidus** - A tecnologia cresce rapidamente.
+18. **Le scientistas observa le stellas** - Os cientistas observam as estrelas.
+19. **Nos incrementare le nostra compreensione** - Nós aumentamos nossa compreensão.
+20. **Le creatio art es universal** - A criação artística é universal.
+21. **Mi admire le diversitate del natura** - Eu admiro a diversidade da natureza.
+22. **Le programmatore crea algoritmos abstractus** - O programador cria algoritmos abstratos.
+23. **Nos communicare clarissime in Vetúm** - Nós comunicamos claramente em Vetum.
+24. **Le philosophia examina le natura del realitate** - A filosofia examina a natureza da realidade.
+25. **Mi cresce com le libros** - Eu cresço com os livros.
+26. **La technologia innovat in cada era** - A tecnologia inova em cada era.
+27. **Le astrum brillia in le nocte** - As estrelas brilham na noite.
+28. **Scientia et arte educe le homines** - Ciência e arte educam as pessoas.
+29. **Nos ambula in le parco** - Nós caminhamos no parque.
+30. **Le tempus semper cambia** - O tempo está sempre mudando.
+31. **xxxx** - A mamae realizou compras.
+32. **xxxx** - Papai foi trabalhar na roça.
+33. **xxxx** - Titio me ensinou do um até cem.
+34. **xxxx** - Vovô me ensinou as constelações.
+35. **xxxx** - Os numeros estao presentes em todo lugar.
+36. **xxxx** - Meus pais me ensinaram a fazer dez pratos de papinha diferentes.
+37. **xxxx** - Me formei em astrofísica e amo estudar cálculo.
+38. **xxxx** - Elaborei a lei da gravitação universal, pena que Newton me copiou.
+39. **xxxx** - A morte para a vida pode ser algo assustador.
+40. **xxxx** - Muitas pessoas encontram a felicidade na insanidade.
+41. **xxxx** - Voce decide como viver sua vida.
+42. **xxxx** - Rick and Morty é uma animação muito boa!
+43. **xxxx** - Doctor Who é uma serie sobre um viajante do tempo.
+44. **xxxx** - Se voce fissionar um atomo(dividir ao meio), voce pode morrer.
+45. **xxxx** - Fusão nuclear consiste em fundir dois atomos.
+46. **xxxx** - A luz se move a aproximadamente duzentos e noventa e nove milhões, setecentos e noventa e dois, quatrocentos e cinquenta e oito metros por segundo
