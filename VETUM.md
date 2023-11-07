@@ -209,7 +209,9 @@ O Vetum utiliza um alfabeto baseado no latim, com algumas modificações para re
 - **Scientia (Feminino)**: Ciência
 - **Domus (Neutro)**: Casa
 - **Computátore (Neutro)**: Computador
+- **Computátio (Neutro)**: Computação
 - **Planet (Masculino)**: Planeta
+- **Astrônomya (Feminino)**: Astronomia
 - **Mathematica (Feminino)**: Matemática
 - **Astrum (Neutro)**: Estrela
 - **Natura (Feminino)**: Natureza
@@ -304,21 +306,13 @@ O Vetum utiliza um alfabeto baseado no latim, com algumas modificações para re
 - **Saepe**: Frequentemente
 - **Nunc**: Agora
 
-## Frases Comuns
-- **Mi programmo**: Eu estou programando
-- **Scientia et investigatio sun important**: Ciência e pesquisa são importantes
-- **Mi studet mathematica**: Eu estudo matemática
-- **Scientia es potentia**: Conhecimento é poder
-- **Nos debemus studere**: Nós devemos estudar
-
 ## Outros
 - **Vetúm**: O nome do idioma Vetum
-- **Astronomia (Feminino)**: Astronomia
-- **Scientia computatio (Feminino)**: Ciência da computação
+- **Scientia computátio (Feminino)**: Ciência da computação
 
 ---
 
-# Frases de Exemplo
+# Frases
 
 - **Le programma in computátore**: Ele programa no computador.
 - **Mi amare mathematica**: Eu amo matemática.
@@ -326,3 +320,9 @@ O Vetum utiliza um alfabeto baseado no latim, com algumas modificações para re
 - **Le creat astronomia in Vetúm**: Ele cria astronomia em Vetum.
 - **Mi programme**: Eu programo.
 - **La domus es magnus**: A casa é grande.
+- **Mi programmo**: Eu programo.
+- **Scientia et investigatio sun important**: Ciência e pesquisa são importantes.
+- **Mi studet mathematica**: Eu estudo matemática.
+- **Scientia es potentia**: Conhecimento é poder.
+- **Nos debemus studere**: Nós devemos estudar.
+
