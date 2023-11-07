@@ -6,10 +6,10 @@ O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação i
 
 ### Acentuação Gráfica
 
-A acentuação gráfica no Vetum é utilizada para indicar entonação e ênfase em palavras. Por exemplo, o "acento grave {\´\}" indica uma entonação ascendente, indicando uma pergunta, enquanto o "acento agudo {\`\}" indica uma entonação descendente, indicando uma afirmação. Isso ajuda a dar nuances à comunicação escrita.
+A acentuação gráfica no Vetum é utilizada para indicar entonação e ênfase em palavras. Por exemplo, o "acento grave {\´}" indica uma entonação ascendente, indicando uma pergunta, enquanto o "acento agudo {\`}" indica uma entonação descendente, indicando uma afirmação. Isso ajuda a dar nuances à comunicação escrita.
 
-- "Acento grave {\´\}": com entonação ascendente, indicando uma pergunta.
-- "Acento agudo {\`\}": com entonação descendente, indicando uma afirmação.
+- "Acento grave {\´}": com entonação ascendente, indicando uma pergunta.
+- "Acento agudo {\`}": com entonação descendente, indicando uma afirmação.
 
 ### Ênfase
 
@@ -33,16 +33,22 @@ Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre out
 ### Artigos
 
 ###### Artigos Definidos
-WIP
+
+- **Lo (Masculino)**: O
+- **La (Feminino)**: A
+- **Ly (Neutro)**: O/A
+- **Los (Masculino plural)**: Os
+- **Las (Feminino plural)**: As
+- **Lys (Neutro)**: Os/As
 
 **Artigos Indefinidos:**
 
-- **Un (Masculino Singular)**: Um / Uma
-- **Una (Feminino Singular)**: Um / Uma
-- **Un (Neutro Singular)**: Um / Uma
-- **Unes (Masculino Plural)**: Uns / Umas
-- **Unas (Feminino Plural)**: Uns / Umas
-- **Uns (Neutro Plural)**: Uns / Umas
+- **Un (Masculino Singular)**: Um
+- **Una (Feminino Singular)**: Uma
+- **En (Neutro Singular)**: Um / Uma
+- **Unes (Masculino Plural)**: Uns
+- **Unas (Feminino Plural)**: Umas
+- **Ens (Neutro Plural)**: Uns / Umas
 
 ### Adjetivos
 
