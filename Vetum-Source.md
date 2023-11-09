@@ -68,21 +68,21 @@ Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre out
 
 **Artigos Definidos:**
 
-- **Lo (Masculino)** - O
-- **La (Feminino)** - A
-- **Ly (Neutro)** - O/A
-- **Los (Masculino plural)** - Os
-- **Las (Feminino plural)** - As
-- **Lys (Neutro)** - Os/As
+- **O (Masculino)** - O
+- **A (Feminino)** - A
+- **U (Neutro)** - O/A
+- **Os (Masculino plural)** - Os
+- **As (Feminino plural)** - As
+- **Us (Neutro)** - Os/As
 
 **Artigos Indefinidos:**
 
 - **Un (Masculino Singular)** - Um
 - **Una (Feminino Singular)** - Uma
-- **En (Neutro Singular)** - Um / Uma
-- **Unes (Masculino Plural)** - Uns
+- **Onu (Neutro Singular)** - Um / Uma
+- **Unos (Masculino Plural)** - Uns
 - **Unas (Feminino Plural)** - Umas
-- **Ens (Neutro Plural)** - Uns / Umas
+- **Unus (Neutro Plural)** - Uns / Umas
 
 ### Adjetivos
 
@@ -133,10 +133,10 @@ Os pronomes pessoais são palavras usadas para substituir nomes, indicando quem 
 
 - **Mi** - Eu
 - **Tu** - Você (informal)
-- **Le** - Ele / Ela
+- **Lo/La/Lu** - Ele/Ela
 - **Nos** - Nós
 - **Vos** - Vocês
-- **Loro** - Eles / Elas
+- **Les** - Eles / Elas
 
 ## Pronomes Possessivos
 
@@ -147,7 +147,7 @@ Os pronomes possessivos indicam a posse de algo e são utilizados para indicar a
 - **Su** - Seu / Sua (formal)
 - **Nos** - Nosso / Nossa
 - **Vos** - Vosso / Vossa
-- **Loro** - Seus / Suas (deles / delas)
+- **Les** - Seus / Suas (deles / delas)
 
 ## Pronomes Demonstrativos
 
@@ -167,7 +167,7 @@ Os pronomes reflexivos são utilizados quando o sujeito e o objeto da ação sã
 - **Lesme** - Ele mesmo / Ela mesma
 - **Nosmesme** - Nós mesmos / Nós mesmas
 - **Vosmesme** - Vocês mesmos / Vocês mesmas
-- **Lorosme** - Eles mesmos / Elas mesmas
+- **Lesme** - Eles mesmos / Elas mesmas
 
 ## Pronomes Interrogativos
 
@@ -196,12 +196,14 @@ As preposições são palavras que estabelecem relações entre os termos de uma
 - **Cum** - Com
 - **Per** - Por
 - **Pro** - Por (causa)
+- **Del** - Do/Da
 
 ## Conjunções
 
 As conjunções são palavras que ligam elementos da frase, como palavras, orações ou frases.
 
 - **Et** - E
+- **És** - É
 - **Aut** - Ou
 - **Sed** - Mas
 - **Quia** - Porque
@@ -234,12 +236,12 @@ Decida quem está realizando a ação (pessoa) e se é singular ou plural (núme
 - **Pessoa Singular:**
   - Mi - Eu
   - Tu - Você (informal)
-  - Le - Ele / Ela
+  - Lo/La/Lu - Ele / Ela
 
 - **Pessoa Plural:**
   - Nos - Nós
   - Vos - Vocês
-  - Loro - Eles / Elas
+  - Les - Eles / Elas
 
 #### Passo 3: Escolher o Tempo e o Modo
 
@@ -254,52 +256,26 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
    - Presente do Indicativo:
      - Mi cognosce - Eu sei
      - Tu cognosces - Você sabe
-     - Le cognoscet - Ele/Ela sabe
+     - Lo/La/Lu cognoscet - Ele/Ela sabe
      - Nos cognoscimus - Nós sabemos
      - Vos cognoscitis - Vocês sabem
-     - Loro cognoscent - Eles/Elas sabem
+     - Les cognoscent - Eles/Elas sabem
 
    - Pretérito Perfeito do Indicativo:
      - Mi cognovi - Eu soube
      - Tu cognovis - Você soube
-     - Le cognovit - Ele/Ela soube
+     - Lo/La/Lu cognovit - Ele/Ela soube
      - Nos cognovimus - Nós soubemos
      - Vos cognovitis - Vocês souberam
-     - Loro cognoverunt - Eles/Elas souberam
+     - Les cognoverunt - Eles/Elas souberam
 
    - Futuro do Indicativo:
      - Mi cognosceré - Eu saberei
      - Tu cognosceres - Você saberá
-     - Le cognoscet - Ele/Ela saberá
+     - Lo/La/Lu cognoscet - Ele/Ela saberá
      - Nos cognoscemus - Nós saberemos
      - Vos cognoscetis - Vocês saberão
-     - Loro cognoscerent - Eles/Elas saberão
-
-2. **Verbo: Creare (Criar)**
-
-   - Presente do Indicativo:
-     - Mi creo - Eu crio
-     - Tu creas - Você cria
-     - Le creat - Ele/Ela cria
-     - Nos creamus - Nós criamos
-     - Vos creatis - Vocês criam
-     - Loro creant - Eles/Elas criam
-
-   - Pretérito Perfeito do Indicativo:
-     - Mi creavi - Eu criei
-     - Tu creavisti - Você criou
-     - Le creavit - Ele/Ela criou
-     - Nos creavimus - Nós criamos
-     - Vos creavitis - Vocês criaram
-     - Loro creaverunt - Eles/Elas criaram
-
-   - Futuro do Indicativo:
-     - Mi creaberé - Eu criarei
-     - Tu creaberes - Você criará
-     - Le creabet - Ele/Ela criará
-     - Nos creabemus - Nós criaremos
-     - Vos creabetis - Vocês criarão
-     - Loro creabent - Eles/Elas criarão
+     - Les cognoscerent - Eles/Elas saberão
 
 ## Sintaxe
 
@@ -319,168 +295,153 @@ O Vetum utiliza um alfabeto baseado no latim, com algumas modificações para re
 
 ---
 
-# Dicionário Vetum-Português (WIP)
+## Etapas para Criar Novas Palavras em Vetum
 
-## Substantivos
-- Scientia (Feminino) - Ciência
-- Domus (Neutro) - Casa
-- Computátore (Neutro) - Computador
-- Computátio (Neutro) - Computação
-- Planet (Masculino) - Planeta
-- Astrônomya (Feminino) - Astronomia
-- Mathematica (Feminino) - Matemática
-- Astrum (Neutro) - Estrela
-- Natura (Feminino) - Natureza
-- Machina (Feminino) - Máquina
-- Librer (Masculino) - Livro
-- Scientist (Neutro) - Cientista
-- Ludus (Masculino) - Jogo
-- Chronologia (Feminino) - Cronologia
-- Art (Feminino) - Arte
-- Ingenium (Neutro) - Engenho
-- Algorithmus (Masculino) - Algoritmo
-- Ratio (Feminino) - Razão
-- Vita (Feminino) - Vida
-- Tempus (Neutro) - Tempo
-- Historia (Feminino) - História
-- Línguage (Feminino) - Linguagem
-- Idiom - (Neutro) - Idioma
-- Mens (Feminino) - Mente
-- Amicus (Masculino) - Amigo
-- Familia (Feminino) - Família
-- Mundus (Masculino) - Mundo
-- Tempus (Neutro) - Tempo
-- Via (Feminino) - Rua
-- Mensa (Feminino) - Mesa
-- Domum (Feminino) - Casa
-- Aqua (Feminino) - Água
-- Panis (Masculino) - Pão
-- Deos (Masculino) - Deus
-- Tenebrae (Neutro) - Trevas
-- Abysmus (Neutro) - Abismo
-- Fórma (Feminino) - Forma
-- Facie (Neutro) - Face
-- Spiritus (Neutro) - Espírito
-- Lux (Neutro) - Luz
-- Philósophie (Neutro) - Filosofia
-- Laetitia (Feminino)- Felicidade
-- Gaudium (Neutro) - Alegria
-- Tristitia (Feminino) - Tristeza
-- Dolor (Masculino) - Dor
-- Lacrima (Feminino) - Lágrima
-- Amor (Masculino) - Amor
-- Caritas (Feminino) - Carinho
-- Dilectio (Feminino) - Afeição
-- Ira (Feminino) - Raiva
-- Odium (Neutro) - Ódio
-- Miratio (Feminino) - Surpresa
-- Stupefácio (Feminino) - Espanto
-- Timor (Masculino) - Medo
-- Metus (Masculino) - Apreensão
-- Sperantia (Feminino) - Esperança
-- Expectatio (Feminino) - Expectativa
-- Fides (Feminino) - Confiança
-- Fiducia (Feminino) - Fidelidade
-- Desperatio (Feminino) - Desespero
-- Gloria (Feminino) - Glória
+#### 1. Raiz da Palavra:
 
-## Adjetivos
-- Magnus (Masculino) - Grande
-- Parvus (Masculino) - Pequeno
-- Rapidus (Masculino) - Rápido
-- Scientificus (Neutro) - Científico
-- Astralis (Feminino) - Astral
-- Logicus (Masculino) - Lógico
-- Efficax (Neutro) - Eficaz
-- Complexus (Neutro) - Complexo
-- Simplicitas (Feminino) - Simplicidade
-- Elegantia (Feminino) - Elegância
-- Diversus (Neutro) - Diverso
-- Innovativus (Neutro) - Inovador
-- Abstractus (Neutro) - Abstrato
-- Concretus (Neutro) - Concreto
-- Universalis (Neutro) - Universal
-- Particularis (Neutro) - Particular
-- Bonus (Masculino) - Bom
-- Malis (Masculino) - Mau
-- Pulcher (Masculino) - Bonito
-- Vacua (Feminino) - Vazio
-- Felix (Masculino) - Feliz
-- Desperatus (Masculino) - Desesperado
+A primeira etapa é escolher a raiz da palavra, que será o núcleo do significado que queremos transmitir. Podemos usar palavras já existentes no léxico do Vetum ou criar novas raízes com base em conceitos específicos.
 
-## Verbos
-- Cognoscere - Saber
-- Creare - Criar
-- Investigare - Investigar
-- Posse - Poder (Verbo Modal)
-- Debere - Dever (Verbo Modal)
-- Programmare - Programar
-- Comunicare - Comunicar
-- Explorare - Explorar
-- Compehedere - Compreender
-- Creare - Criar
-- Admirare - Admirar
-- Observare - Observar
-- Crescere - Crescer
-- Debilitare - Debilitar
-- Incrementare - Incrementar
-- Ambulare - Caminhar
-- Edere - Comer
-- Bibere - Beber
-- Dormire - Dormir
-- Lavare - Lavar
-- Erat - Era
-- Habia - Havia
+#### 2. Adição de Afixos:
 
-## Preposições
+A próxima etapa envolve a adição de afixos para modificar o significado da raiz. Os afixos podem incluir prefixos, sufixos ou infixos. Por exemplo, podemos adicionar um prefixo para indicar intensidade, um sufixo para indicar ação, entre outros.
 
-- Sine - Sem
-- Super - Sobre
+#### 3. Flexão Gramatical:
 
-## Advérbios
-- Scientifice - Cientificamente
-- Bene - Bem
-- Efficienter - Eficientemente
-- Clarissime - Claramente
-- Saepe - Frequentemente
-- Nunc - Agora
+A flexão gramatical é importante para adequar a nova palavra à gramática do Vetum. Isso inclui a concordância de gênero e número, bem como a conjugação verbal, se a nova palavra for um verbo.
 
-## Outros
-- Vetúm - O nome do idioma Vetum
-- Scientia computátio (Feminino) - Ciência da computação
+#### 4. Verificação de Fonética:
+
+É importante garantir que a nova palavra siga as regras de fonética do Vetum, garantindo que seja pronunciada corretamente.
+
+#### 5. Definição no Dicionário:
+
+Após criar a nova palavra, podemos adicioná-la ao dicionário Vetum-Português, juntamente com sua definição.
+
+#### Exemplos:
+
+1. **Céu** (onde fica as atmosferas) - **"Aéreth"** (Masculino)
+
+   - **Etapas de Criação:**
+     1. Raiz da Palavra: **"Aër"** (relacionado ao ar)
+     2. Adição de Afixos: **"-eth"** (sufixo para indicar lugar ou região)
+     3. Flexão Gramatical: Concordância de gênero e número.
+
+   - **Definição no Dicionário:**
+     - **Aëreth (Masculino)** - O local onde se encontram às atmosferas.
+
+2. **Nova** - **"Nuev"** (Feminino)
+
+   - **Etapas de Criação:**
+     1. Raiz da Palavra: **"Nuv"** (representando algo novo)
+     2. Adição de Afixos: Nenhuma necessária neste caso.
+     3. Flexão Gramatical: Concordância de gênero e número.
+
+   - **Definição no Dicionário:**
+     - **Nuv (Feminino)** - Algo novo ou recentemente criado.
+
+3. **Fogo** (elemento que queima) - **"Ignus"** (Masculino)
+
+   - **Etapas de Criação:**
+     1. Raiz da Palavra: **"Ign"** (relacionado ao fogo e à queima)
+     2. Adição de Afixos: Nenhuma necessária neste caso.
+     3. Flexão Gramatical: Concordância de gênero e número.
+
+   - **Definição no Dicionário:**
+     - **Ignus (Masculino)** - O elemento que queima.
+
+4. **Elemento** - **"Elementum"** (Neutro)
+
+   - **Etapas de Criação:**
+     1. Raiz da Palavra: **"Element"** (representando um elemento ou componente)
+     2. Adição de Afixos: Nenhuma necessária neste caso.
+     3. Flexão Gramatical: Concordância de gênero e número.
+
+   - **Definição no Dicionário:**
+     - **Elementum (Neutro)** - Um elemento ou componente.
+
+5. **Árvore** - **"Arbor"** (Feminino)
+
+   - **Etapas de Criação:**
+     1. Raiz da Palavra: **"Arbor"** (relacionado a árvores)
+     2. Adição de Afixos: Nenhuma necessária neste caso.
+     3. Flexão Gramatical: Concordância de gênero e número.
+
+   - **Definição no Dicionário:**
+     - **Arbor (Feminino)** - Uma árvore.
+
+6. **Principio (Masculino)** - **"Initium"**
+
+   - **Etapas de Criação:**
+     1. Raiz da Palavra: **"Init"** (representando o começo ou início)
+     2. Adição de Afixos: Nenhuma necessária neste caso.
+     3. Flexão Gramatical: Concordância de gênero e número.
+
+   - **Definição no Dicionário:**
+     - **Initium (Masculino)** - O primeiro momento ou início.
+
+7. **Terra (Feminino)** - **"Terrae"**
+
+   - **Etapas de Criação:**
+     1. Raiz da Palavra: **"Terr"** (representando a superfície sólida da crosta terrestre)
+     2. Adição de Afixos: Nenhuma necessária neste caso.
+     3. Flexão Gramatical: Concordância de gênero e número.
+
+   - **Definição no Dicionário:**
+     - **Terrae (Feminino)** - A superfície sólida da crosta terrestre.
 
 ---
 
 # Frases
 
-1. **Le programma in computátore** - Ele programa no computador.
-2. **Mi amare mathematica** - Eu amo matemática.
-3. **La scientia és important** - A ciência é importante.
-4. **Le creat astronomia in Vetúm** - Ele cria astronomia em Vetum.
-5. **Mi programme** - Eu programo.
-6. **La domus es magnus** - A casa é grande.
-7. **Mi programmo** - Eu programo.
-8. **Scientia et investigatio sun important** - Ciência e pesquisa são importantes.
-9. **Mi studet mathematica** - Eu estudo matemática.
-10. **Scientia es potentia** - Conhecimento é poder.
-11. **Nos debemus studere** - Nós devemos estudar
-12. **Le programme es efficax** - O programa é eficaz.
-13. **Mi creare novus algorithmus** - Eu crio novos algoritmos.
-14. **Nos explorare le mysterium del universum** - Nós exploramos o mistério do universo.
-15. **La scientia et creativitate sun fundamentale** - A ciência e a criatividade são fundamentais.
-16. **Mi adoro investigare astronomia** - Eu adoro investigar astronomia.
-17. **Le mathematica es universalis** - A matemática é universal.
-18. **La technologia cresce rapidus** - A tecnologia cresce rapidamente.
-19. **Le scientistas observa le stellas** - Os cientistas observam as estrelas.
-20. **Nos incrementare le nostra compreensione** - Nós aumentamos nossa compreensão.
-21. **Le creatio art es universal** - A criação artística é universal.
-22. **Mi admire le diversitate del natura** - Eu admiro a diversidade da natureza.
-23. **Le programmatore crea algoritmos abstractus** - O programador cria algoritmos abstratos.
-24. **Nos communicare clarissime in Vetúm** - Nós comunicamos claramente em Vetum.
-25. **Le philosophia examina le natura del realitate** - A filosofia examina a natureza da realidade.
-26. **Mi cresce com le libros** - Eu cresço com os livros.
-27. **La technologia innovat in cada era** - A tecnologia inova em cada era.
-28. **Le astrum brillia in le nocte** - As estrelas brilham na noite.
-29. **Scientia et arte educe le homines** - Ciência e arte educam as pessoas.
-30. **Nos ambula in le parco** - Nós caminhamos no parque.
-31. **Le tempus semper cambia** - O tempo está sempre mudando.
+WIP -> Ainda para ser feito
+
+1. **Lo programma in computátore.** - Ele programa no computador.
+2. **Mi amare mathematica.** - Eu amo matemática.
+3. **A scientia és important.** - A ciência é importante.
+4. **Lo creat astronomia in Vetúm.** - Ele cria astronomia em Vetum.
+5. **Mi programme.** - Eu programo.
+6. **O domus és magnus.** - A casa é grande.
+7. **Scientia et investigatio sun important.** - Ciência e pesquisa são importantes.
+8. **Mi studet mathematica.** - Eu estudo matemática.
+9. **Scientia és potentia.** - Conhecimento é poder.
+10. **Nos debemus studere.** - Nós devemos estudar
+11. **O programme és efficax.** - O programa é eficaz.
+12. **Mi creare novus algorithmus.** - Eu crio novos algoritmos.
+13. **Nos explorare le mysterium del universum.** - Nós exploramos o mistério do universo.
+14. **A scientia et creativitate sun fundamentale.** - A ciência e a criatividade são fundamentais.
+15. **Mi adoro investigare astronomya.** - Eu adoro investigar astronomia.
+16. **A mathematica és universalis**. - A matemática é universal.
+17. **A technologia cresce velocemente.** - A tecnologia cresce rapidamente.
+18. **Scientistas observan las stellas.** - Os cientistas observam as estrelas.
+19. **Nos incrementare le nostra compreensione.** - Nós aumentamos nossa compreensão.
+20. **A creator art és universal.** - A criação artística é universal.
+21. **Mi admire a natura diversitatem**. - Eu admiro a diversidade da natureza.
+22. **A programmatore crea algoritmos abstractus.** - O programador cria algoritmos abstratos.
+23. **Nos communicare clarissime in Vetúm.** - Nós comunicamos claramente em Vetum.
+24. **A philosophia examina a natura realidad.** - A filosofia examina a natureza da realidade.
+25. **Mi cresce com les libros.** - Eu cresço com os livros.
+26. **A technologia innovat in cada era.** - A tecnologia inova em cada era.
+27. **Os astrum brillia in le nocte.** - As estrelas brilham na noite.
+28. **Scientia et art educe las pérsonas** - Ciência e arte educam as pessoas.
+29. **Nos ambula in parco.** - Nós caminhamos no parque.
+30. **Tempus semper cambia.** - O tempo está sempre mudando.
+31. **"In initium, Deos creavit aéreth et terrae."** - "No principio, Deus criou os céus e a terra."
+32. **Irea praedire un lactea.** - Vai tomar um leite.
+33. **Bones diem.** - Bom dia.
+34. **Bonas nocte.** - Boa noite.
+35. **Matri exsequet mercae.** - A mãe realizou compras.
+32. **Patre ivit in la rusça.** - O pai foi trabalhar na roça.
+33. **Avun mi docui de un in la centum.** - O tio me ensinou do um até cem.
+34. **Avô mi decui las stellarias.** - O vô me ensinou as constelações.
+35. **Numberos stant prasent in todus os locares.** - Os números estão presentes em todos os lugares.
+36. **My patriam docuistis hacer decen porridge diversos ferculum.** - Meus pais me ensinaram a fazer dez pratos de papinha diferentes.
+37. **Formavi in astrophysica et amore studare calculus.** - Me formei em astrofísica e amo estudar cálculo.
+38. **Mi creavi gravidad lex universalis, lamentabilmente Newton copivit me** - Elaborei a lei da gravitação universal, pena que Newton me copiou.
+39. **WIP** - A morte para a vida pode ser algo assustador.
+40. **WIP** - Muitas pessoas encontram a felicidade na insanidade.
+41. **WIP** - Voce decide como viver sua vida.
+42. **WIP** - Rick and Morty é uma animação muito boa!
+43. **WIP** - Doctor Who é uma serie sobre um viajante do tempo.
+44. **WIP** - Se você fissionar um átomo (dividir ao meio), poderá morrer.
+45. **WIP** - Fusão nuclear consiste em fundir dois átomos.
+46. **A lux mova aprocimantament in duocenti nonaginta novem milhones, septingenti nongenti duos millia, quadringentesimo quinquagesimo quinquaginta métris per secund.** - A luz se move a aproximadamente duzentos e noventa e nove milhões, setecentos e noventa e dois mil, quatrocentos e cinquenta e oito metros por segundo.
