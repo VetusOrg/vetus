@@ -13,8 +13,8 @@ A organização "Vetus" é uma comunidade dedicada ao avanço tecnológico. cien
 **II. Estrutura Organizacional:**
 A organização "Vetus" será composta por diferentes departamentos, cada um focado em uma área específica do desenvolvimento tecnológico e científico. Os principais departamentos incluem:
 
-1. **Departamento de Computação:** 
-- O Departamento de Computação é responsável por conceber, desenvolver e implementar soluções tecnológicas inovadoras. Seu foco abrange a criação de software, jogos, algoritmos e aplicações que impulsionam o avanço tecnológico em diversas áreas.
+### Departamento de Computação
+O Departamento de Computação é responsável por conceber, desenvolver e implementar soluções tecnológicas inovadoras. Seu foco abrange a criação de software, jogos, algoritmos e aplicações que impulsionam o avanço tecnológico em diversas áreas.
 
 I. **Áreas de Atuação:**
 
@@ -35,8 +35,8 @@ III. **Objetivos e Contribuições:**
 - Contribuir para avanços na computação, oferecendo produtos de qualidade e impacto significativo.
 - Promover a disseminação do conhecimento técnico e a colaboração com outros departamentos para aplicação interdisciplinar.
 
-2. **Departamento de Matemática:**
-- O Departamento de Matemática concentra-se na pesquisa, desenvolvimento e aplicação de princípios matemáticos em uma variedade de projetos, visando contribuir para a inovação e a resolução de problemas complexos em diversas áreas.
+### Departamento de Matemática
+O Departamento de Matemática concentra-se na pesquisa, desenvolvimento e aplicação de princípios matemáticos em uma variedade de projetos, visando contribuir para a inovação e a resolução de problemas complexos em diversas áreas.
 
 I. **Áreas de Atuação:**
 
@@ -57,8 +57,8 @@ III. **Objetivos e Contribuições:**
 - Fornecer ferramentas e métodos matemáticos para auxiliar outros departamentos na resolução de problemas específicos.
 - Promover a interdisciplinaridade, integrando a matemática com outras áreas de estudo para desenvolver soluções inovadoras.
 
-3. **Departamento de Física:**
-- O Departamento de Física se dedica à pesquisa, exploração teórica e prática de conceitos fundamentais da física, visando compreender e aplicar os princípios que regem o universo e suas interações.
+### Departamento de Física
+O Departamento de Física se dedica à pesquisa, exploração teórica e prática de conceitos fundamentais da física, visando compreender e aplicar os princípios que regem o universo e suas interações.
 
 I. **Áreas de Atuação:**
 
@@ -79,8 +79,8 @@ III. **Objetivos e Contribuições:**
 - Desenvolver tecnologias inovadoras baseadas em descobertas físicas para impulsionar avanços tecnológicos.
 - Colaborar com outros departamentos para aplicar princípios físicos em soluções multidisciplinares.
 
-4. **Departamento de Astronomia:** 
-- O Departamento de Astronomia é dedicado à exploração, estudo e compreensão do universo, abrangendo desde a observação celestial até o desenvolvimento de tecnologias espaciais inovadoras.
+### Departamento de Astronomia 
+O Departamento de Astronomia é dedicado à exploração, estudo e compreensão do universo, abrangendo desde a observação celestial até o desenvolvimento de tecnologias espaciais inovadoras.
 
 I. **Áreas de Atuação:**
 
@@ -101,7 +101,7 @@ III. **Objetivos e Contribuições:**
 - Desenvolver tecnologias de observação e exploração espacial para expandir os limites do conhecimento humano sobre o cosmos.
 - Colaborar com outros departamentos para integrar descobertas astronômicas em pesquisas multidisciplinares.
 
-5. **Departamento de Pesquisa Científica:**
+### Departamento de Pesquisa Científica
 - O Departamento de Pesquisa Científica é responsável por coordenar, apoiar e promover a excelência na condução de projetos de pesquisa em diversas áreas científicas, visando contribuir para o avanço do conhecimento e da inovação.
 
 I. **Áreas de Foco:**
@@ -123,7 +123,7 @@ III. **Objetivos e Contribuições:**
 - Desenvolver parcerias interdisciplinares para abordar desafios globais e regionais por meio da aplicação do conhecimento científico.
 - Fomentar a disseminação de descobertas científicas por meio de publicações, conferências e colaborações com outros departamentos.
 
-6. **Departamento de Filosofia:** 
+### Departamento de Filosofia
 - O Departamento de Filosofia tem como objetivo explorar, analisar e discutir questões fundamentais sobre a natureza da existência, do conhecimento, da ética e da realidade, proporcionando uma base reflexiva para a organização "Vetus".
 
 I. **Áreas de Foco:**
@@ -148,7 +148,7 @@ III. **Objetivos e Contribuições:**
 IV. **Colaboração e Disseminação:** 
 O Departamento de Filosofia buscará diálogo com acadêmicos, promoverá debates internos, organizará seminários e contribuirá com publicações para compartilhar artigos, reflexões filosóficas, entre outros e estimular discussões intelectuais dentro e fora da organização.
 
-7. **Departamento de Teologia:** 
+### Departamento de Teologia 
 - Este departamento é dedicado à pesquisa, estudo e análise aprofundada de teologia e assuntos relacionados à religião. Seu principal objetivo é explorar os princípios, doutrinas e fenômenos religiosos, promovendo um entendimento mais profundo das crenças, práticas e tradições em diferentes contextos espirituais.
 
 I. **Áreas de Estudo:**
